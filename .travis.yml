@@ -1,6 +1,8 @@
 # avoid rake file not found
-language: generic
+language: node_js
+
 sudo: required
+
 services: 
   - docker
 
